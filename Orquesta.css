@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(61,61,61);
+}
+h1{
+        font-family: "Emblema One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+}
+h5{
+    font-family: "Grechen Fuemen", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    }
+.one{
+    background-color: rgb(255, 145, 0);
+    height: 50px;
+    width:100% ;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    }
+.two{
+    background-color: rgb(255, 145, 0);
+    height: 20px;
+    width:100% ;
+    float: left; 
+    margin-top: 1%;
+    }
+.three{
+    background-color: rgb(255, 145, 0);
+    height: 40px;
+    width:100% ;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 1%;
+    }
+.imagen{
+    background-color: rgb(0, 0, 0);
+    height: 500px;
+    width:40% ;
+    float: left;
+    margin-left: 6.6%;
+    margin-top: 3%;
+    }
+.Escrito{
+    background-color: rgb(34, 36, 36);
+    height: 500px;
+    width:40% ;
+    float: left;
+    margin-left: 6.6%;
+    margin-top: 3%;
+    }
+.titular{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width:90%;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-left: 5%;
+    margin-top: 3%;
+    }
+.resumen{
+    background-color: rgb(255, 255, 255);
+    height: 380px;
+    width:90% ;
+    float: left;
+    margin-left: 5%;
+    margin-top: 3%;
+    border-radius: 50%;
+    }
+    .FIN{
+        background-color: rgb(255, 255, 255);
+        height: 50px;
+        width:90%;
+        float: left;
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+
+    #nutria{
+    height: 500px;
+    width:100% ;
+    }
